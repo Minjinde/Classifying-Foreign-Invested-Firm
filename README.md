@@ -26,3 +26,20 @@
 ## Translation
 
 - Used googletrans to translate topic keywords into English for interpretability.
+
+
+## Topics from LDA output:
+
+| Topic ID | Dominant Theme                           | Example Keywords                                |
+| -------- | ---------------------------------------- | ----------------------------------------------- |
+| **0**    | Consulting & Events                      | consulting, information, management, exhibition |
+| **1**    | Food & Agriculture                       | food, packaging, real estate, transport         |
+| **2**    | Manufacturing (Electronics & Automotive) | manufacture, equipment, components, R&D         |
+| **3**    | Retail & Wholesale                       | wholesale, retail, cosmetics, apparel           |
+| **4**    | Trade & Regulation                       | regulation, import/export, license              |
+| **5**    | Consumer Goods & Fashion                 | clothing, furniture, decoration, toys           |
+| **6**    | Chemicals & Technology                   | chemicals, R&D, tech transfer                   |
+| **7**    | Enterprise Consulting                    | management, design, planning, investment        |
+| **8**    | Brokerage & Auctions                     | acting, commission, auction, molds              |
+| **9**    | Regulatory Compliance                    | approval, prohibition, licensing laws           |
+
